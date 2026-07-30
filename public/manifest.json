@@ -1,0 +1,15 @@
+{
+  "name": "Barbearia Flow",
+  "short_name": "BarbFlow",
+  "description": "MicroSaaS Premium para Gestão de Barbearia",
+  "theme_color": "#121212",
+  "background_color": "#121212",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
